@@ -1,0 +1,2 @@
+n_samples,first_date,last_date,pH_field_fraction,median_pCO2_uatm,q25_pCO2,q75_pCO2,min_pCO2,max_pCO2,fraction_supersaturated,median_DIC_umolL,median_ratio_pCO2_to_atm,median_MC_half_width_90pct_relative,smk_trend,smk_p,smk_sen_slope_uatm_per_yr,median_pH
+428,1997-01-15,2025-09-16,0.9743,2082,1446,2965,545.4,1.846e+04,1,2245,5.233,0.1939,no trend,0.2584,12.69,7.8

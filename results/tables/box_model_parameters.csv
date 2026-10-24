@@ -1,0 +1,6 @@
+parameter,prior_low,prior_high,accepted_p05,accepted_median,accepted_p95,spearman_with_rmse_all_runs
+A_b,100,250,132.4,172.5,239.9,0.5478
+A_q,10,150,12.21,40.54,73.94,0.2235
+BFImax,0.2,0.95,0.2829,0.489,0.7763,0.3149
+a,0.95,0.995,0.9647,0.9828,0.9938,-0.02058
+tau,0.5,60,2.826,16.56,48.55,0.006644

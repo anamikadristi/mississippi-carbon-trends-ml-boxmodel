@@ -1,0 +1,13 @@
+# raw downloads are re-created by scripts/00_download_data.py
+data/raw/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

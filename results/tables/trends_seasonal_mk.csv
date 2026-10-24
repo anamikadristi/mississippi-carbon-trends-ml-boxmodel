@@ -1,0 +1,54 @@
+site,site_name,window,variable,units,type,n_samples,n_years,quarter_coverage,median_conc,tested,trend,p_value,tau,sen_slope_per_yr,slope_pct_of_median_per_yr,change_over_window
+07373420,St. Francisville,1997-2025,DOC,mg/L,raw,424,29,0.99,3.6,True,no trend,0.96211,0.0037594,0,0,0
+07373420,St. Francisville,1997-2025,DOC,mg/L,flow_adjusted,424,29,0.99,3.6,True,no trend,0.71111,-0.025063,-0.0013748,-0.03819,-0.038496
+07373420,St. Francisville,1997-2025,alk,mg/L as CaCO3,raw,431,29,0.99,106,True,increasing,0.0063859,0.18045,0.41458,0.39112,11.608
+07373420,St. Francisville,1997-2025,alk,mg/L as CaCO3,flow_adjusted,431,29,0.99,106,True,increasing,6.917e-05,0.26316,0.49115,0.46335,13.752
+07373420,St. Francisville,1997-2025,pH,units,raw,431,29,0.99,7.8,True,no trend,0.70636,-0.025063,0,0,0
+07373420,St. Francisville,1997-2025,pH,units,flow_adjusted,431,29,0.99,7.8,True,no trend,0.93189,-0.0062657,-0.00027304,-0.0035005,-0.0076452
+07373420,St. Francisville,1997-2025,SC,uS/cm,raw,432,29,0.99,371,True,no trend,0.083846,-0.11466,-0.85147,-0.22951,-23.841
+07373420,St. Francisville,1997-2025,SC,uS/cm,flow_adjusted,432,29,0.99,371,True,no trend,0.90174,-0.0087719,-0.061016,-0.016446,-1.7085
+07373420,St. Francisville,1997-2025,temp,deg C,raw,430,29,0.99,18.55,True,no trend,0.12828,0.10088,0.027098,0.14608,0.75874
+07373420,St. Francisville,1997-2025,temp,deg C,flow_adjusted,430,29,0.99,18.55,True,increasing,0.043094,0.13409,0.049926,0.26914,1.3979
+07373420,St. Francisville,1997-2025,NO3,mg/L as N,raw,424,29,0.99,1.3,True,decreasing,0.015019,-0.16103,-0.0078869,-0.60668,-0.22083
+07373420,St. Francisville,1997-2025,NO3,mg/L as N,flow_adjusted,424,29,0.99,1.3,True,no trend,0.11275,-0.10526,-0.0061875,-0.47596,-0.17325
+07373420,St. Francisville,1997-2025,TP,mg/L as P,raw,417,29,0.97,0.21,True,no trend,0.52024,0.043478,0.0004,0.19048,0.0112
+07373420,St. Francisville,1997-2025,TP,mg/L as P,flow_adjusted,417,29,0.97,0.21,True,no trend,0.39151,0.057755,0.00035046,0.16689,0.009813
+07373420,St. Francisville,1997-2025,SSC,mg/L,raw,423,29,0.99,140,True,decreasing,0.0052276,-0.18484,-1.3385,-0.9561,-37.479
+07373420,St. Francisville,1997-2025,SSC,mg/L,flow_adjusted,423,29,0.99,140,True,decreasing,0.00018981,-0.24687,-1.3506,-0.96472,-37.817
+07373420,St. Francisville,1980-2025,alk,mg/L as CaCO3,raw,621,46,0.99,107,True,increasing,0.034825,0.10818,0.1625,0.15187,7.3125
+07373420,St. Francisville,1980-2025,pH,units,raw,622,46,0.99,7.8,True,increasing,9.419e-06,0.22442,0.0051282,0.065746,0.23077
+07373420,St. Francisville,1980-2025,SC,uS/cm,raw,623,46,0.99,376,True,no trend,0.24036,-0.060317,-0.30556,-0.081265,-13.75
+07373420,St. Francisville,1980-2025,temp,deg C,raw,617,46,0.99,18.5,True,no trend,0.10954,0.082051,0.015,0.081081,0.675
+07373420,St. Francisville,1980-2025,NO3,mg/L as N,raw,548,46,0.99,1.3,True,decreasing,0.031659,-0.11013,-0.004,-0.30769,-0.18
+07373420,St. Francisville,1980-2025,TP,mg/L as P,raw,599,46,0.98,0.2,True,increasing,0.0048161,0.14528,0.001086,0.543,0.04887
+07373420,St. Francisville,1980-2025,SSC,mg/L,raw,595,46,0.99,157,True,decreasing,3.6904e-12,-0.3558,-2.4231,-1.5434,-109.04
+07374000,Baton Rouge,1997-2025,DOC,mg/L,raw,176,14,0.45,3.67,False,,,,,,
+07374000,Baton Rouge,1997-2025,DOC,mg/L,flow_adjusted,176,14,0.45,3.67,False,,,,,,
+07374000,Baton Rouge,1997-2025,alk,mg/L as CaCO3,raw,179,16,0.47,107,False,,,,,,
+07374000,Baton Rouge,1997-2025,alk,mg/L as CaCO3,flow_adjusted,177,14,0.45,107,False,,,,,,
+07374000,Baton Rouge,1997-2025,pH,units,raw,382,27,0.84,7.8,True,no trend,0.73857,0.024801,0,0,0
+07374000,Baton Rouge,1997-2025,SC,uS/cm,raw,389,27,0.84,392,True,decreasing,0.022545,-0.16652,-1.5333,-0.39116,-42.933
+07374000,Baton Rouge,1997-2025,temp,deg C,raw,377,27,0.83,20.5,True,decreasing,0.028417,-0.16094,-0.063485,-0.30968,-1.7776
+07374000,Baton Rouge,1997-2025,NO3,mg/L as N,raw,378,27,0.84,1.41,True,no trend,0.065473,-0.13463,-0.0084615,-0.60011,-0.23692
+07374000,Baton Rouge,1997-2025,TP,mg/L as P,raw,173,13,0.43,0.224,False,,,,,,
+07374000,Baton Rouge,1997-2025,TP,mg/L as P,flow_adjusted,173,13,0.43,0.224,False,,,,,,
+07374000,Baton Rouge,1997-2025,SSC,mg/L,raw,283,22,0.7,141,True,no trend,0.47369,-0.058974,-0.73214,-0.51925,-20.5
+07374000,Baton Rouge,1997-2025,SSC,mg/L,flow_adjusted,283,22,0.7,141,True,no trend,0.31595,-0.082051,-0.45639,-0.32368,-12.779
+07374525,Belle Chasse,1997-2025,DOC,mg/L,raw,268,22,0.7,3.635,True,no trend,0.26588,-0.090909,-0.0090476,-0.2489,-0.25333
+07374525,Belle Chasse,1997-2025,DOC,mg/L,flow_adjusted,266,21,0.68,3.635,True,no trend,0.053791,-0.15903,-0.012356,-0.33992,-0.34597
+07374525,Belle Chasse,1997-2025,alk,mg/L as CaCO3,raw,271,22,0.71,107,True,no trend,0.42586,0.064919,0.15385,0.14378,4.3077
+07374525,Belle Chasse,1997-2025,alk,mg/L as CaCO3,flow_adjusted,269,21,0.69,107,True,no trend,0.45634,0.061761,0.1352,0.12635,3.7855
+07374525,Belle Chasse,1997-2025,pH,units,raw,271,22,0.71,7.8,True,decreasing,0.00039063,-0.2809,-0.01,-0.12821,-0.28
+07374525,Belle Chasse,1997-2025,pH,units,flow_adjusted,269,21,0.69,7.8,True,decreasing,0.00052962,-0.28252,-0.010735,-0.13763,-0.30058
+07374525,Belle Chasse,1997-2025,SC,uS/cm,raw,271,22,0.71,381,True,decreasing,0.042389,-0.16355,-1.9,-0.49869,-53.2
+07374525,Belle Chasse,1997-2025,SC,uS/cm,flow_adjusted,269,21,0.69,381,True,no trend,0.064891,-0.15112,-1.3151,-0.34517,-36.822
+07374525,Belle Chasse,1997-2025,temp,deg C,raw,270,22,0.71,19.2,True,increasing,0.022616,0.18352,0.077273,0.40246,2.1636
+07374525,Belle Chasse,1997-2025,temp,deg C,flow_adjusted,268,21,0.69,19.2,True,increasing,0.041318,0.16689,0.075363,0.39252,2.1102
+07374525,Belle Chasse,1997-2025,NO3,mg/L as N,raw,268,22,0.7,1.315,True,decreasing,0.01094,-0.20615,-0.015,-1.1407,-0.42
+07374525,Belle Chasse,1997-2025,NO3,mg/L as N,flow_adjusted,266,21,0.68,1.315,True,no trend,0.11738,-0.12938,-0.011831,-0.89966,-0.33125
+07374525,Belle Chasse,1997-2025,TP,mg/L as P,raw,260,22,0.68,0.2305,True,no trend,0.081577,-0.14382,-0.0023741,-1.03,-0.066476
+07374525,Belle Chasse,1997-2025,TP,mg/L as P,flow_adjusted,258,21,0.66,0.2305,True,decreasing,0.0014325,-0.26629,-0.0028876,-1.2527,-0.080852
+07374525,Belle Chasse,1997-2025,SSC,mg/L,raw,338,20,0.66,132,True,no trend,0.15461,-0.11949,-1.4286,-1.0823,-40
+07374525,Belle Chasse,1997-2025,SSC,mg/L,flow_adjusted,338,20,0.66,132,True,decreasing,0.0039673,-0.2404,-1.1815,-0.8951,-33.083
+07295100,Tarbert Landing,1997-2025,SSC,mg/L,raw,511,29,0.97,161,True,decreasing,6.4812e-08,-0.36243,-4,-2.4845,-112
+07295100,Tarbert Landing,1997-2025,SSC,mg/L,flow_adjusted,508,29,0.97,161,True,decreasing,6.6895e-09,-0.38889,-3.2278,-2.0049,-90.379
